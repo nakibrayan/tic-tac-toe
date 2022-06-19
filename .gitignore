@@ -1,0 +1,5 @@
+# ignore object files
+obj
+
+# ignore executabels
+bin
